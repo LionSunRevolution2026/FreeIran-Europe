@@ -257,7 +257,6 @@ elisabetta.gualmini@europarl.europa.eu
 cristina.guarda@europarl.europa.eu
 paolo.inselvini@europarl.europa.eu
 camilla.laureti@europarl.europa.eu
-mimmo.lucano@europarl.europa.eu
 giuseppe.lupo@europarl.europa.eu
 lara.magoni@europarl.europa.eu
 mario.mantovani@europarl.europa.eu
@@ -303,7 +302,6 @@ francesco.ventola@europarl.europa.eu
 mariateresa.vivaldini@europarl.europa.eu
 alessandro.zan@europarl.europa.eu
 nicola.zingaretti@europarl.europa.eu
-mieke.andriesse@europarl.europa.eu
 malik.azmani@europarl.europa.eu
 jeannette.baljeu@europarl.europa.eu
 rachel.blom@europarl.europa.eu
